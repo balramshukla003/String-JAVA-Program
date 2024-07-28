@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RevStr{
+public class reverse_string_words{
     public static void main(String[] args) {
 
         String a ;
