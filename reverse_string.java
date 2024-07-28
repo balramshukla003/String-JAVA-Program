@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class jj{
+class reverse_string{
     public static void main(String[] args) {
 
         String a = "";
