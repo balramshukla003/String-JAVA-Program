@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class jj{
+class case_changing{
     public static void main(String[] args) {
 
         String a = "";
